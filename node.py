@@ -3,6 +3,7 @@ import requests
 import json
 import time
 import uuid
+import asyncio
 from loguru import logger
 
 # Constants
