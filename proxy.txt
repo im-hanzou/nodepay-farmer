@@ -1,2 +1,4 @@
-http://Username:Password@ip:port
-print('utgffu')
+socks5://username:password@proxyhost:port
+http://username:password@proxyhost:port
+socks5://proxyhost:port
+http://proxyhost:port
